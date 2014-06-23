@@ -1,0 +1,5 @@
+C:\Users\ckruszynsk\Dropbox\Labs\web development\angular_js\AngularShoppingCart\AngularCart\bin\AngularCart.dll.config
+C:\Users\ckruszynsk\Dropbox\Labs\web development\angular_js\AngularShoppingCart\AngularCart\bin\AngularCart.dll
+C:\Users\ckruszynsk\Dropbox\Labs\web development\angular_js\AngularShoppingCart\AngularCart\bin\AngularCart.pdb
+C:\Users\ckruszynsk\Dropbox\Labs\web development\angular_js\AngularShoppingCart\AngularCart\obj\Debug\AngularCart.dll
+C:\Users\ckruszynsk\Dropbox\Labs\web development\angular_js\AngularShoppingCart\AngularCart\obj\Debug\AngularCart.pdb
