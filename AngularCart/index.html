@@ -3,35 +3,46 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>AngularJS Shopping Cart</title>
-    <link href="css/bootstrap/bootstrap.css" rel="stylesheet" />    
-    <link href="css/bootstrap/bootstrap.responsive.css" rel="stylesheet" />    
+    <title>GoNerdBooks</title>
+    <link href="css/bootstrap/bootstrap.css" rel="stylesheet" />
+    <link href="css/bootstrap/bootstrap.responsive.css" rel="stylesheet" />
     <style type="text/css">
         #view {
             margin-top: 75px;
         }
+
+        .table tbody tr.error > td > a {
+            color: white;
+        }
+
+        .table tbody tr.info > td > a {
+            color: white;
+        }
+
+        .table tbody tr.alert > td > a {
+            color: white;
+        }
     </style>
 </head>
-    <body>        
-        <header class="navbar navbar-fixed-top" role="banner">
-            <div class="navbar-inner">
-                <div class="container">
-                    <a href="./" class="brand">AngularJS Shopping Cart</a>
-                    <nav class="nav-collapse collapse" id="main-menu">
-                        <ul class="nav">                            
-                        </ul>                        
-                    </nav>
-                </div>
+<body ng-app="shoppingCart">
+    <header class="navbar navbar-fixed-top" role="banner">
+        <div class="navbar-inner">
+            <div class="container">
+                <a href="./" class="brand">GoNerdBooks</a>
+                <nav class="nav-collapse collapse" id="main-menu">
+                    <ul class="nav"></ul>
+                </nav>
             </div>
-        </header>
-        
-            <div id="view" class="container">
-            </div>    
-        
-        
+        </div>
+    </header>
 
-        <script src="vendor/angular.js" type="text/javascript"></script>
-        <script src="vendor/angular-route.js" type="text/javascript"></script>
-        <script src="app/app.js" type="text/javascript"></script>
-    </body>
+    <div id="view" ng-view class="container">
+    </div>
+
+
+
+    <script src="vendor/angular.js" type="text/javascript"></script>
+    <script src="vendor/angular-route.js" type="text/javascript"></script>
+    <script src="app/app.js" type="text/javascript"></script>
+</body>
 </html>

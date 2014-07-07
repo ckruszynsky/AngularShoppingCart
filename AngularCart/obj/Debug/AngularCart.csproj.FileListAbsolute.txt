@@ -3,3 +3,9 @@ C:\Users\ckruszynsk\Dropbox\Labs\web development\angular_js\AngularShoppingCart\
 C:\Users\ckruszynsk\Dropbox\Labs\web development\angular_js\AngularShoppingCart\AngularCart\bin\AngularCart.pdb
 C:\Users\ckruszynsk\Dropbox\Labs\web development\angular_js\AngularShoppingCart\AngularCart\obj\Debug\AngularCart.dll
 C:\Users\ckruszynsk\Dropbox\Labs\web development\angular_js\AngularShoppingCart\AngularCart\obj\Debug\AngularCart.pdb
+C:\Users\ckruszynsk\Documents\GitHub\AngularShoppingCart\AngularCart\bin\AngularCart.dll.config
+C:\Users\ckruszynsk\Documents\GitHub\AngularShoppingCart\AngularCart\bin\AngularCart.dll
+C:\Users\ckruszynsk\Documents\GitHub\AngularShoppingCart\AngularCart\bin\AngularCart.pdb
+C:\Users\ckruszynsk\Documents\GitHub\AngularShoppingCart\AngularCart\obj\Debug\AngularCart.csprojResolveAssemblyReference.cache
+C:\Users\ckruszynsk\Documents\GitHub\AngularShoppingCart\AngularCart\obj\Debug\AngularCart.dll
+C:\Users\ckruszynsk\Documents\GitHub\AngularShoppingCart\AngularCart\obj\Debug\AngularCart.pdb

@@ -57,10 +57,13 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="css\fonts\glyphicons-halflings-regular.eot" />
-    <Content Include="css\fonts\glyphicons-halflings-regular.ttf" />
-    <Content Include="css\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="app\partials\product-detail.html" />
+    <Content Include="app\partials\product-listing.html" />
+    <Content Include="css\img\glyphicons-halflings-regular.eot" />
+    <Content Include="css\img\glyphicons-halflings-regular.ttf" />
+    <Content Include="css\img\glyphicons-halflings-regular.woff" />
     <Content Include="vendor\errors.json" />
+    <Content Include="app\data\products.json" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -73,7 +76,7 @@
     <Content Include="css\app.css" />
     <Content Include="css\bootstrap\bootstrap.css" />
     <Content Include="css\bootstrap\bootstrap.responsive.css" />
-    <Content Include="css\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="css\img\glyphicons-halflings-regular.svg" />
     <Content Include="index.html" />
     <Content Include="vendor\angular-animate.js" />
     <Content Include="vendor\angular-cookies.js" />
@@ -89,8 +92,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="app\partials\" />
     <Folder Include="Images\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
